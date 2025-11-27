@@ -5,7 +5,7 @@ Aplikasi To-Do List ini adalah sebuah aplikasi web sederhana namun fungsional ya
 
 # 🚀 Fungsi & Fitur Utama
 
-**1. Manajemen Tugas (CRUD Sederhana)**
+* **Manajemen Tugas (CRUD Sederhana)**
 
 **Create:** Menambahkan tugas baru dengan judul dan kategori (Pribadi, Pekerjaan, Belanja).
 
@@ -15,7 +15,7 @@ Aplikasi To-Do List ini adalah sebuah aplikasi web sederhana namun fungsional ya
 
 **Delete:** Menghapus tugas yang sudah tidak diperlukan.
 
-**2. Antarmuka Responsif & SPA**
+* **Antarmuka Responsif & SPA**
 
 **Memiliki dua tampilan utama:** Halaman Utama **(List)** dan Halaman Form **(Tambah Data).**
 
@@ -23,7 +23,7 @@ Aplikasi To-Do List ini adalah sebuah aplikasi web sederhana namun fungsional ya
 
 **Desain responsif yang menyerupai tampilan aplikasi mobile** (lebar maksimum dibatasi agar nyaman dilihat di desktop).
 
-**3. Validasi Input**
+* **Validasi Input**
 
 **Sistem mencegah pengguna menyimpan tugas kosong dengan memberikan peringatan visual.**
 
