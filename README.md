@@ -11,8 +11,8 @@ Aplikasi To-Do List ini adalah sebuah aplikasi web sederhana namun fungsional ya
 
 **Read:** Menampilkan daftar tugas yang tersimpan.
 
-**Update:** Menandai tugas sebagai **"Selesai"** (ceklis) atau **"Belum Selesai".
-**
+**Update:** Menandai tugas sebagai **"Selesai"** (ceklis) atau **"Belum Selesai".**
+
 **Delete:** Menghapus tugas yang sudah tidak diperlukan.
 
 * **Antarmuka Responsif & SPA**
